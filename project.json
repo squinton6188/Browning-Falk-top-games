@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "sports-slider"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2017/sports/Browning-Falk-top-games"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2017/sports/Browning-Falk-top-games/",
+  "slug": "",
+  "tags": ["interactive", "parallax"],
+  "image": "",
+  "production": false,
+  "sheets": ["1SXPZ3zYu06bZpRv-BfbbGTkUUhU3TpoHSaK6JzUUXD0"]
+}
